@@ -7,12 +7,12 @@
 
 # Site settings
 title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+email: DeepAlgoPy@gmail.com
+description: Deep
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+twitter_username:  DeepAlgoPy
+github_username:  DeepAlgoPy
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
